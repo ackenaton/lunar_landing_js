@@ -1,4 +1,5 @@
-Readme
+#Readme
+
 He utilizado la versión esqueleto del juego y he intentado añadir todos los puntos solicitados en el readme original.
 
 No he llegado a aclararme con JavaScript por lo que no he podido completar todos los puntos.
