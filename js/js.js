@@ -75,7 +75,7 @@ function actualizarFuel(){
 }
 
 /* Mensaje gana o pierde */
-if (v<=1) {
+if (y<70 && v<=1) {
         alert ("¡HAS GANADO!");
 } 
 else {
