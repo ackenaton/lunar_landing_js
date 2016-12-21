@@ -79,7 +79,7 @@ function mensaje(){
 if (y<70 && v<=1){
         alert ("¡HAS GANADO!");
 } 
-else{
+else if (y<70 && v>1){
         alert ("PRUEBA DE NUEVO");
 }
 }
