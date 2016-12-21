@@ -73,3 +73,10 @@ function actualizarFuel(){
 	fuel-=0.1;
 	document.getElementById("fuel").innerHTML=fuel;	
 }
+
+/* Mensaje gana o pierde */
+if (v=<1) {
+        alert ("¡HAS GANADO!")
+} else {
+        alert ("PRUEBA DE NUEVO")
+}
